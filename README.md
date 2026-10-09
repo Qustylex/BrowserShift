@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://plain-weur-prod-public.komododecks.com/202610/09/wDMnvB5KeKMNw9MGdkNn/image.png" alt="BrowserShift" width="720">
+</p>
+
 # BrowserShift
 
 > Switch browsers. Keep your flow.
@@ -8,7 +12,6 @@
   <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-4B5563?style=for-the-badge" alt="Platform">
 </p>
-
 ---
 
 ## Table of Contents
