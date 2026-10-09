@@ -3,57 +3,10 @@
 > Switch browsers. Keep your flow.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.0-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.3.0-8B5CF6?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-4B5563?style=for-the-badge" alt="Platform">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passing-4ADE80?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build">
-  <img src="https://img.shields.io/badge/tests-42%20passed-4ADE80?style=for-the-badge" alt="Tests">
-  <img src="https://img.shields.io/badge/coverage-87%25-22C55E?style=for-the-badge" alt="Coverage">
-  <img src="https://img.shields.io/badge/code%20style-ruff-000000?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff">
-  <img src="https://img.shields.io/badge/type%20hints-100%25-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Typed">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/telemetry-none-EF4444?style=for-the-badge&logo=shield&logoColor=white" alt="No Telemetry">
-  <img src="https://img.shields.io/badge/network-local%20only-8B5CF6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Local Only">
-  <img src="https://img.shields.io/badge/DPAPI-supported-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DPAPI">
-  <img src="https://img.shields.io/badge/AES--GCM-supported-F59E0B?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="AES-GCM">
-  <img src="https://img.shields.io/badge/SHA--256-verified-8B5CF6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SHA-256">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Chromium-SUPPORTED-4ADE80?style=flat-square" alt="Chromium">
-  <img src="https://img.shields.io/badge/Firefox-PARTIAL-FBBF24?style=flat-square" alt="Firefox">
-  <img src="https://img.shields.io/badge/Bookmarks-SUPPORTED-4ADE80?style=flat-square" alt="Bookmarks">
-  <img src="https://img.shields.io/badge/History-SUPPORTED-4ADE80?style=flat-square" alt="History">
-  <img src="https://img.shields.io/badge/Cookies-SUPPORTED-4ADE80?style=flat-square" alt="Cookies">
-  <img src="https://img.shields.io/badge/Extensions-PARTIAL-FBBF24?style=flat-square" alt="Extensions">
-  <img src="https://img.shields.io/badge/Settings-PARTIAL-FBBF24?style=flat-square" alt="Settings">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome">
-  <img src="https://img.shields.io/badge/contributions-welcome-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white" alt="Contributions">
-  <img src="https://img.shields.io/badge/maintained-yes-4ADE80?style=for-the-badge" alt="Maintained">
-  <img src="https://img.shields.io/badge/status-alpha-FBBF24?style=for-the-badge" alt="Alpha">
-  <img src="https://img.shields.io/badge/stars-please%E2%AD%90-FBBF24?style=for-the-badge&logo=github&logoColor=white" alt="Stars">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rich-13.7%2B-A78BFA?style=for-the-badge&logo=python&logoColor=white" alt="Rich">
-  <img src="https://img.shields.io/badge/pycryptodome-3.20%2B-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Pycryptodome">
-  <img src="https://img.shields.io/badge/pywin32-306%2B-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Pywin32">
-  <img src="https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-any%20distro-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/macOS-11%2B-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </p>
 
 ---
