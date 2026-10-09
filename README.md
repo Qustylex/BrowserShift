@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="BrowserShift" width="820">
+   <img src="https://plain-weur-prod-public.komododecks.com/202610/09/wDMnvB5KeKMNw9MGdkNn/image.png" alt="BrowserShift" width="820">
 </p>
 
 <h1 align="center">BrowserShift</h1>
